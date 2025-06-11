@@ -1,6 +1,11 @@
-# Fofax - 一款更美观、更注重隐私的 FOFA 第三方客户端
+<h1 align="center">Fofax - 一款更美观、更注重隐私的 FOFA 第三方客户端</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Deployment-Ready-brightgreen?style=for-the-badge" alt="部署状态">
+</p>
 
-[![部署状态](https://img.shields.io/badge/Deployment-Ready-brightgreen?style=for-the-badge)]()
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ckeu/fofax/refs/heads/main/fofax.png" alt="Fofax界面" width="800">
+</p>
 
 **Fofax** 是为 [FOFA](https://fofa.info) 用户打造的一款非官方、开源的第三方桌面客户端。如果你热爱 FOFA 强大的数据能力，但又希望获得一个更现代化、更简洁美观的操作界面，同时对个人隐私有更高的要求，那么 Fofax 将是你的理想之选。
 
